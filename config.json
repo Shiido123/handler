@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "messages": {
+    "COOLDOWN_MESSAGE": "Vous devez attendre `<duration>` secondes!"
+  },
+  "owner": "YOUR_ID"
+}
